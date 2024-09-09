@@ -1,0 +1,1 @@
+<img src="./public/imgs/image.png">

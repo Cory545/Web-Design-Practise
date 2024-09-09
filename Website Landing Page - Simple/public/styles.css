@@ -1,0 +1,35 @@
+#section{
+    background-color: #f9e8ce;
+}
+
+.text-cream{
+    color: #f9e8ce
+}
+#darkSection{
+    background-color: #5a5a5a;
+}
+
+#sectionHead{
+    height: 95vh;
+    width: 100%;
+};
+#object-cover {
+    width: 100%;
+    height: auto;
+  }
+  hr.solid {
+    border-top: 1px solid black;
+  }
+.backgroundImage{
+    background-image: url("./imgs/janis-dzenis-4d3RKCoaCSE-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.backgroundImage1{
+    background-image: url("./imgs/philip-oroni-q0RoK42sQLQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
