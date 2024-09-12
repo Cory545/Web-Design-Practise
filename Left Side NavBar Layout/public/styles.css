@@ -2,20 +2,42 @@ body{
     background-color: #1e0b2e;
 }
 
-#text{
-    color: #af6dff;
+.textWhite{
+    color: #bf8cfd;
+    padding-top: 50px;
+    padding-left: 10%;
 }
 
-#navBar{
+.chart{
+    height: 100%;
+    object-fit:cover;
+}
+
+.name{
+    color: #bf8cfd;
+}
+
+.section{
+    background-color: #341a54;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.navBar{
     border-right: 1px solid #442c61;
     border-style: groove;
+    background-color: #341a54;
+    padding-left: 5%;
 }
 
 #img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 100%;
-    border-radius:50%;
-    object-fit:fill;
+    border-radius: 50%;
+    height: 80%;
+    width: 100%px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+    margin-top: 30px;
 }
